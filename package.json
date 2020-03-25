@@ -1,0 +1,22 @@
+{
+  "name": "ts-unreachable",
+  "version": "0.0.0",
+  "keywords": [
+    "bottom type",
+    "default",
+    "discriminated",
+    "disjoint",
+    "exhaustiveness checking",
+    "exhaustiveness",
+    "switch",
+    "tagged unions",
+    "typed",
+    "typescript",
+    "unreachable"
+  ],
+  "repository": "LinusU/ts-unreachable",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  }
+}
