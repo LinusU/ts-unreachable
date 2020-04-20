@@ -41,6 +41,12 @@ function area (shape: Shape): number {
 
    Calling the function with an invalid kind from JavaScript would also return `undefined` instead of throwing a `TypeError`.
 
+## Related Packages
+
+- [`ts-todo`](https://github.com/LinusU/ts-todo)
+- [`ts-unimplemented`](https://github.com/LinusU/ts-unimplemented)
+- [`ts-unwrap`](https://github.com/LinusU/ts-unwrap)
+
 ## Prior Art
 
 - Npm [`unreachable` package](https://github.com/Gozala/unreachable)
