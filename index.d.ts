@@ -1,2 +1,1 @@
-declare function unreachable (value: never): never
-export = unreachable
+export default function unreachable (value: never): never

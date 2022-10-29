@@ -11,7 +11,7 @@ npm install --save ts-unreachable
 ## Usage
 
 ```typescript
-import unreachable = require('ts-unreachable')
+import unreachable from 'ts-unreachable'
 
 type Shape =
   | { kind: 'square', size: number }
